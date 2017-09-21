@@ -1,0 +1,20 @@
+.box1{
+  background-color: gray;
+}
+
+.box2{
+  background-color: gray;
+}
+
+.box3{
+  background-color: gray;
+}
+
+.hero-img {
+  height: 500px;
+  width: 100%;
+}
+
+p, h1, h2, h3 {
+  font-family: 'Roboto';
+}
